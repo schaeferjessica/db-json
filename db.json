@@ -5,9 +5,9 @@
       "url": "/001",
       "flavour": "Shrimp",
       "name": "Yum Yum",
-      "noodels": "5 of 5",
-      "soupe": "4 of 5",
-      "spice": "1 of 5",
+      "noodels": "5",
+      "soupe": "4",
+      "spice": "1",
       "comment": "Lemon soup flavour"
     },
     {
@@ -15,9 +15,9 @@
       "url": "/002",
       "flavour": "Shrimp",
       "name": "Yum Yum",
-      "noodels": "5 of 5",
-      "soupe": "5 of 5",
-      "spice": "3 of 5",
+      "noodels": "5",
+      "soupe": "5",
+      "spice": "3",
       "comment": "Lemon soup flavour"
     },
     {
@@ -25,9 +25,9 @@
       "url": "/008",
       "flavour": "Shrimp",
       "name": "MAMA",
-      "noodels": "4 of 5",
-      "soupe": "5 of 5",
-      "spice": "2 of 5",
+      "noodels": "4",
+      "soupe": "5",
+      "spice": "2",
       "comment": ""
     },
     {
@@ -35,9 +35,9 @@
       "url": "/007",
       "flavour": "Shrimp",
       "name": "MAMA",
-      "noodels": "5 of 5",
-      "soupe": "5 of 5",
-      "spice": "1 of 5",
+      "noodels": "5",
+      "soupe": "5",
+      "spice": "1",
       "comment": "Lemon soup flavour"
     },
     {
@@ -45,9 +45,9 @@
       "url": "/016",
       "flavour": "Beef",
       "name": "MAMA Pho Bo",
-      "noodels": "3 of 5",
-      "soupe": "3 of 5",
-      "spice": "0 of 5",
+      "noodels": "3",
+      "soupe": "3",
+      "spice": "0",
       "comment": ""
     },
     {
@@ -55,9 +55,9 @@
       "url": "/016",
       "flavour": "Crab",
       "name": "VIFON",
-      "noodels": "3 of 5",
-      "soupe": "2 of 5",
-      "spice": "0 of 5",
+      "noodels": "3",
+      "soupe": "2",
+      "spice": "0",
       "comment": "soupe with fishy smell"
     },
     {
@@ -65,9 +65,9 @@
       "url": "/004",
       "flavour": "Onion",
       "name": "Acecook Hao Hao",
-      "noodels": "5 of 5",
-      "soupe": "3 of 5",
-      "spice": "0 of 5",
+      "noodels": "5",
+      "soupe": "3",
+      "spice": "0",
       "comment": ""
     },
     {
@@ -75,9 +75,9 @@
       "url": "/013",
       "flavour": "Beef",
       "name": "Acecook Pho",
-      "noodels": "3 of 5",
-      "soupe": "2 of 5",
-      "spice": "0 of 5",
+      "noodels": "3",
+      "soupe": "2",
+      "spice": "0",
       "comment": "pour hot water into the bowl with kettle"
     },
     {
@@ -85,9 +85,9 @@
       "url": "/009",
       "flavour": "Beef",
       "name": "Indomie",
-      "noodels": "4 of 5",
+      "noodels": "4",
       "soupe": "",
-      "spice": "2 of 5",
+      "spice": "2",
       "comment": "without soupe"
     },
     {
@@ -95,9 +95,9 @@
       "url": "/005",
       "flavour": "Pork",
       "name": "MAMA",
-      "noodels": "3 of 5",
-      "soupe": "3 of 5",
-      "spice": "3 of 5",
+      "noodels": "3",
+      "soupe": "3",
+      "spice": "3",
       "comment": ""
     },
     {
@@ -105,9 +105,9 @@
       "url": "/010",
       "flavour": "Vegi",
       "name": "OYAKATO MISO",
-      "noodels": "2 of 5",
-      "soupe": "2 of 5",
-      "spice": "0 of 5",
+      "noodels": "2",
+      "soupe": "2",
+      "spice": "0",
       "comment": ""
     }
   ]
