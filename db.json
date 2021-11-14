@@ -2,7 +2,7 @@
   "ramen": [
     {
       "id": 1,
-      "url": "/001",
+      "image": "001",
       "flavour": "Shrimp",
       "name": "Yum Yum",
       "noodels": "5",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "url": "/002",
+      "image": "002",
       "flavour": "Shrimp",
       "name": "Yum Yum",
       "noodels": "5",
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "url": "/008",
+      "image": "008",
       "flavour": "Shrimp",
       "name": "MAMA",
       "noodels": "4",
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "url": "/007",
+      "image": "007",
       "flavour": "Shrimp",
       "name": "MAMA",
       "noodels": "5",
@@ -42,7 +42,7 @@
     },
     {
       "id": 5,
-      "url": "/016",
+      "image": "016",
       "flavour": "Beef",
       "name": "MAMA Pho Bo",
       "noodels": "3",
@@ -52,7 +52,7 @@
     },
     {
       "id": 6,
-      "url": "/017",
+      "image": "017",
       "flavour": "Crab",
       "name": "VIFON",
       "noodels": "3",
@@ -62,7 +62,7 @@
     },
     {
       "id": 7,
-      "url": "/004",
+      "image": "004",
       "flavour": "Onion",
       "name": "Acecook Hao Hao",
       "noodels": "5",
@@ -72,7 +72,7 @@
     },
     {
       "id": 8,
-      "url": "/013",
+      "image": "013",
       "flavour": "Beef",
       "name": "Acecook Pho",
       "noodels": "3",
@@ -82,7 +82,7 @@
     },
     {
       "id": 9,
-      "url": "/009",
+      "image": "009",
       "flavour": "Beef",
       "name": "Indomie",
       "noodels": "4",
@@ -92,7 +92,7 @@
     },
     {
       "id": 10,
-      "url": "/005",
+      "image": "005",
       "flavour": "Pork",
       "name": "MAMA",
       "noodels": "3",
@@ -102,7 +102,7 @@
     },
     {
       "id": 11,
-      "url": "/010",
+      "image": "010",
       "flavour": "Vegi",
       "name": "OYAKATO MISO",
       "noodels": "2",
