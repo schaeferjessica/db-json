@@ -7,7 +7,7 @@
       "name": "Yum Yum",
       "noodels": "5",
       "soupe": "4",
-      "spice": "1",
+      "spice": "mild",
       "comment": "Lemon soup flavour"
     },
     {
@@ -17,7 +17,7 @@
       "name": "Yum Yum",
       "noodels": "5",
       "soupe": "5",
-      "spice": "3",
+      "spice": "mild",
       "comment": "Lemon soup flavour"
     },
     {
@@ -27,7 +27,7 @@
       "name": "MAMA",
       "noodels": "4",
       "soupe": "5",
-      "spice": "2",
+      "spice": "spicy",
       "comment": ""
     },
     {
@@ -37,7 +37,7 @@
       "name": "MAMA",
       "noodels": "5",
       "soupe": "5",
-      "spice": "1",
+      "spice": "mild",
       "comment": "Lemon soup flavour"
     },
     {
@@ -47,7 +47,7 @@
       "name": "MAMA Pho Bo",
       "noodels": "3",
       "soupe": "3",
-      "spice": "0",
+      "spice": "none",
       "comment": ""
     },
     {
@@ -57,7 +57,7 @@
       "name": "VIFON",
       "noodels": "3",
       "soupe": "2",
-      "spice": "0",
+      "spice": "none",
       "comment": "soupe with fishy smell"
     },
     {
@@ -67,7 +67,7 @@
       "name": "Acecook Hao Hao",
       "noodels": "5",
       "soupe": "3",
-      "spice": "0",
+      "spice": "none",
       "comment": ""
     },
     {
@@ -77,7 +77,7 @@
       "name": "Acecook Pho",
       "noodels": "3",
       "soupe": "2",
-      "spice": "0",
+      "spice": "none",
       "comment": "pour hot water into the bowl with kettle"
     },
     {
@@ -87,7 +87,7 @@
       "name": "Indomie",
       "noodels": "4",
       "soupe": "",
-      "spice": "2",
+      "spice": "mild",
       "comment": "without soupe"
     },
     {
@@ -97,7 +97,7 @@
       "name": "MAMA",
       "noodels": "3",
       "soupe": "3",
-      "spice": "3",
+      "spice": "spicy",
       "comment": ""
     },
     {
@@ -107,7 +107,7 @@
       "name": "OYAKATO MISO",
       "noodels": "2",
       "soupe": "2",
-      "spice": "0",
+      "spice": "none",
       "comment": ""
     }
   ]
