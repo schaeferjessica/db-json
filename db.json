@@ -86,9 +86,9 @@
       "flavour": "Beef",
       "name": "Indomie",
       "noodels": "4",
-      "soupe": "",
+      "soupe": "4",
       "spice": "mild",
-      "comment": "without soupe"
+      "comment": "drain noodels before appling flavour (without soupe)"
     },
     {
       "id": 10,
